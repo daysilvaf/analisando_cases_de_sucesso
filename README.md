@@ -1,1 +1,1 @@
-# analisando_cases_de_sucesso
+Atividade de desafio de projeto da Formação Scrum Master Certification da DIO onde o objetivo do desafio foi entrar em contato com alguns cases de sucesso, como empresas Sony e Intel, os quais reforçam a aplicabilidade e os benefícios da gestão ágil do Scrum. Foi realizado uma resenha crítica sobre um case de sucesso envolvendo o SCRUM. 
